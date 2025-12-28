@@ -39,6 +39,8 @@ edit file > `Ctrl + S`儲存 > `git add .` > `git commit -m "建立還原點"`
 右上角的「📘 書本圖示」
 圖示名稱是：Open Preview to the Side
 
+<img width="517" height="241" alt="image" src="https://github.com/user-attachments/assets/c89549e4-4451-44b8-8a4b-e607bf4219e6" />
+
 **general command**
 查看檔案狀態
 ```
